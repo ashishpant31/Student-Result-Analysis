@@ -26,7 +26,6 @@ Model Building (Optional)
 Deployment and Documentation
 1. Jupyter Notebook: Documented the entire analysis process in a Jupyter Notebook, including data preprocessing, EDA, and insights derived.
 2. Visualizations: Embedded visualizations within the notebook to illustrate key findings effectively.
-3. GitHub Repository: Hosted the project on GitHub for collaboration and sharing with the community.
 
 Future Work
 1. Advanced Analysis: Plan to conduct more in-depth analysis, such as clustering students based on performance and demographic characteristics.
